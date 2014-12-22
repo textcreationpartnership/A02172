@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A poets vision, and a princes glorie Dedicated to the high and mightie prince, Iames, King of Englan
+
 #####Body#####
-A poets vision, and a princes glorie Dedicated to the high and mightie prince, Iames, King of Englan
+
+1. A POETS VISION, AND A PRINCES GLORIE.
+
 **Types of content**
 
   * There are 328 **verse** lines!
